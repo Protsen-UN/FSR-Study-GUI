@@ -391,6 +391,9 @@ graph LR
     E --> F[Storage & Visualization]
     F --> G[Analysis & Export]
 ```
+</td>
+</tr>
+</table>
 
 ### 🖥️ Software Components
 
