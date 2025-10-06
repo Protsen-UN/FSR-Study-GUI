@@ -363,6 +363,9 @@ git push origin main
 ```
 
 ---
+</td>
+</tr>
+</table>
 
 ## 🔧 System Architecture
 
@@ -391,9 +394,6 @@ graph LR
     E --> F[Storage & Visualization]
     F --> G[Analysis & Export]
 ```
-</td>
-</tr>
-</table>
 
 ### 🖥️ Software Components
 
